@@ -1,2 +1,14 @@
-# Employee-Registraion-Portal-HTML-css-js
-Developed a web-based portal to manage employee registraion ,secure login authentication,profile management,and data validation.
+# A SIMPLE CALCULATOR
+Calculator
+
+A simple calculator application built with html,css,java script. It can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+🚀 Features
+
+Addition
+
+Subtraction
+
+Multiplication
+
+Division
